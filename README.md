@@ -5,4 +5,8 @@ This is a test to modify this file.
 
 Modifica in locale
 
+
+ciao
+
 Prova nuovo branch
+
